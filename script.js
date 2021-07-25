@@ -11,7 +11,7 @@ const erase = document.getElementById("erase");
 
 const color = document.getElementById("color");
 
-let size = 20;
+let size = 10;
 let isPressed = false;
 let colorVal = "black";
 let x1;
